@@ -1,0 +1,1 @@
+# django-amz-price
